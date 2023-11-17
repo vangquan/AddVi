@@ -21,15 +21,24 @@ The `AddVi` Quick Action script is designed for macOS systems as a Quick Action 
 3. The script extracts information from the filename, adds Bible citation text, and overlays it onto the video.
 4. The processed video is saved in the same directory with "_Vi" appended to the filename.
 
-### Installation:
+### Installation
 
-Clone the repository:
+1. **Download the Latest Release:**
+   - Visit the [Releases](https://github.com/vangquan/AddVi/releases) page.
+   - Download the ZIP file of the latest release, e.g., `AddVi_2023-11-18.workflow.zip`.
 
-```bash
-git clone https://github.com/vangquan/AddVi.git
-cd AddVi
-open AddVi_2023-11-18.workflow
-```
+2. **Extract the Workflow:**
+   - Unzip the downloaded file, and you'll find `AddVi_2023-11-18.workflow` folder.
+
+3. **Install the Quick Action:**
+   - Double-click on `AddVi_2023-11-18.workflow` to install the Quick Action.
+
+4. **Run the Quick Action:**
+   - Once installed, you can use the Quick Action by right-clicking on a video file and selecting "AddVi" from the context menu.
+
+**Note:** Make sure your system allows the installation of unsigned Quick Actions. You might need to adjust your security settings to run custom Quick Actions.
+
+Feel free to customize the instructions further based on your preferences or any specific details you want to highlight.
 
 ### Dependencies:
 
