@@ -25,13 +25,13 @@ The `AddVi` Quick Action script is designed for macOS systems as a Quick Action 
 
 1. **Download the Latest Release:**
    - Visit the [Releases](https://github.com/vangquan/AddVi/releases) page.
-   - Download the ZIP file of the latest release, e.g., `AddVi_2023-11-18.workflow.zip`.
+   - Download the ZIP file of the latest release, e.g., `AddVi_2023-11-20.workflow.zip`.
 
 2. **Extract the Workflow:**
-   - Unzip the downloaded file, and you'll find `AddVi_2023-11-18.workflow` folder.
+   - Unzip the downloaded file, and you'll find `AddVi_2023-11-20.workflow` folder.
 
 3. **Install the Quick Action:**
-   - Double-click on `AddVi_2023-11-18.workflow` to install the Quick Action.
+   - Double-click on `AddVi_2023-11-20.workflow` to install the Quick Action.
 
 4. **Run the Quick Action:**
    - Once installed, you can use the Quick Action by right-clicking on a video file and selecting "AddVi" from the context menu.
